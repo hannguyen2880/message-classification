@@ -10,7 +10,7 @@ This project leverages machine learning techniques, specifically the **Naive Bay
 - **Simple and Effective**: Using a Naive Bayes classifier makes this project accessible while still delivering strong performance.
 - **Customizable**: The structure of the project allows for easy modifications and improvements, making it a great starting point for further experimentation.
 
-## 📂 What’s Included
+## 📂 What’s Included?
 
 - **Naive Bayes Classifier**: A robust and widely-used probabilistic model, perfect for text classification tasks like spam detection.
   ![bayes](images/naive_bayes.jpg)
@@ -18,7 +18,7 @@ This project leverages machine learning techniques, specifically the **Naive Bay
 - **Text Preprocessing**: Procedures to clean, tokenize, and prepare the text data for optimal performance of the model.
 
     ![pipeline](images/pipeline.jpg)
-## 🛠️ How to Get Started
+## 🛠️ How to Get Started?
 
 1. **Clone the Repository**:
    ```bash
@@ -27,5 +27,5 @@ This project leverages machine learning techniques, specifically the **Naive Bay
    ```
 
 2. **Run the Jupyter Notebook**: Open the provided Jupyter notebook to explore the model, train it on sample data, and test it with your own messages.
-
+    Link notebook: https://github.com/hannguyen2880/message-classification/blob/main/Message_Classification.ipynb
     ![Demo](images/demo.jpg)
